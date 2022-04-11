@@ -2,10 +2,10 @@
 undefined, null, boolean, string, symbol, number, and object. 
 */
 
-var myName = "Jahree"
+var myName = "Jahree";
 
-myName = 27
+myName = 27;
 
-let ourName = "freecodecamp"
+let ourName = "freecodecamp";
 
-const pi = 3.14
+const pi = 3.14; 
